@@ -56,4 +56,27 @@ box-shadow: 1px 1px 10px 1px black;
     width: 70%;
     margin: 0 auto;
 }
+/* aqui inicia la sesion de habilidades */
 
+.habilidades-title{margin-bottom: 3rem;} 
+.mishabilidades{
+    display: flex;
+}
+.row >img{
+    width: 50px;
+    border-radius: 70%;
+    max-width: 5rem;
+    box-shadow: 1px 1px 10px 1px black;
+    
+}
+.row2 >img{
+    width: 50px;
+    border-radius: 70%;
+    max-width: 5rem;
+    box-shadow: 1px 1px 10px 1px black;
+}
+.row3 >img{width: 50px;
+    border-radius: 70%;
+    max-width: 5rem;
+    box-shadow: 1px 1px 10px 1px black;}
+    
