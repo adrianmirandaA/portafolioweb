@@ -1,5 +1,5 @@
 /* reseteo general */
-
+html{scroll-behavior: smooth;}
 *{
 margin: 0%;
 padding: 0%;
@@ -39,7 +39,7 @@ padding: 2rem;
     border: 1px solid;
 }
 .imagen-servicios{
-width: 400px;
+width: 400;
 object-fit: contain;
 box-shadow: 1px 1px 10px 1px black;
 }
@@ -50,11 +50,8 @@ box-shadow: 1px 1px 10px 1px black;
     justify-items: center;
     align-content: center;
     align-items: center;
-    gap: 4rem;
-    text-align:justify;
-    font-size: 20px;
-    width: 70%;
-    margin: 0 auto;
+    gap: 6rem;
+  
 }
 /* aqui inicia la sesion de habilidades */
 
@@ -62,20 +59,20 @@ box-shadow: 1px 1px 10px 1px black;
 .mishabilidades{
     display: flex;
 }
-.row >img{
+.raw1>img{
     width: 50px;
     border-radius: 70%;
     max-width: 5rem;
     box-shadow: 1px 1px 10px 1px black;
     
 }
-.row2 >img{
+.raw2 >img{
     width: 50px;
     border-radius: 70%;
     max-width: 5rem;
     box-shadow: 1px 1px 10px 1px black;
 }
-.row3 >img{width: 50px;
+.raw3 >img{width: 50px;
     border-radius: 70%;
     max-width: 5rem;
     box-shadow: 1px 1px 10px 1px black;}
