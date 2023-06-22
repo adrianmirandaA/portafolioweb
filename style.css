@@ -22,7 +22,7 @@ background-color: rgb(245, 45, 45);
 padding: .5rem;
 position: fixed;
 font-size: 25px;
-
+z-index: 999;
 }
 
 .nav-bar{
@@ -97,4 +97,17 @@ border-radius: 1rem;
 
     margin-bottom: 1rem;
 }
-    
+    /* aqui inicia la secion de contacto */
+  
+  
+  
+.form_contacto{
+
+padding: 3rem;
+display: flex;
+flex-direction: column;
+gap: 1;
+box-shadow: 1px 10px 1px 1px;
+margin-top: 2rem;
+
+}
